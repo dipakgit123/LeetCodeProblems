@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
