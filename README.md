@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [1677-matrix-diagonal-sum](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
