@@ -1,27 +1,20 @@
 class Solution {
     public void rotate(int[] nums, int k) {
 
-        int n = nums.length;
-        k = k % n;  // In case k is larger than the array size
-        
-        // Step 1: Reverse the entire array
-        reverse(nums, 0, n - 1);
-        
-        // Step 2: Reverse the first k elements
-        reverse(nums, 0, k - 1);
-        
-        // Step 3: Reverse the remaining n - k elements
-        reverse(nums, k, n - 1);
- 
-    }
+       int n = nums.length;
+       k = k%n;
+       int temp[] = new int[k];
 
-     private void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
-        }
+       for(int i=0 ;i<k;i++) 
+       temp[i] = nums[n-k+i];
+
+       for(int i = n-k-1; i>=0; i--)
+       nums[i+k] = nums[i];
+
+       for(int i = 0 ; i<k;i++)
+       nums[i] = temp[i];
+               
+       
+ 
     }
 }
