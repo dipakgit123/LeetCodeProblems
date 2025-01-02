@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -75,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
