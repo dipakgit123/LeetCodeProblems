@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 ## Counting
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
