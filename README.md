@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1677-matrix-diagonal-sum](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
