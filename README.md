@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0075-sort-colors) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0204-count-primes) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
 |  |
