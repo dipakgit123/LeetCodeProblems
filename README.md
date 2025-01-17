@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
