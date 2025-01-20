@@ -1,20 +1,39 @@
 class Solution {
     public int majorityElement(int[] nums) {
+ 
+          return majorityEle(nums, 0, nums.length-1);
+       
+    }
 
-        int majroEle = nums.length/2;
+    public static int countRange(int[] nums, int num, int lo, int hi){
+        int count = 0;
 
-        for(int i=0; i<nums.length;i++){
-             int count = 0;
-            for(int j=0; j<nums.length;j++){
-        
-              if(nums[j]==nums[i]){
-                count+=1;
-              }
-            }
-            if(count>majroEle){
-                return nums[i];
+        for(int i=lo ; i<=hi;i++){
+            if(nums[i] == num){
+                count++;
             }
         }
-        return -1;
+        return count;
+    }
+
+    public static int majorityEle(int [] nums, int lo, int hi ){
+
+        if(lo==hi){
+            return nums[lo];
+        }
+
+        int mid = (hi-lo)/2+lo;
+
+        int left = majorityEle(nums, lo, mid);
+        int right = majorityEle(nums,mid+1, hi);
+
+        if(left==right){
+            return left;
+        }
+
+        int leftCount = countRange(nums, left, lo,hi);
+        int rightCount = countRange(nums, right, lo, hi);
+
+        return leftCount>rightCount ? left:right;
     }
 }
