@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0414-third-maximum-number) |
+| [0898-transpose-matrix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -210,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
