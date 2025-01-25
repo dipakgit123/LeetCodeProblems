@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0414-third-maximum-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
