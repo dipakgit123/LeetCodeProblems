@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -229,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
