@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 ## Trie
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
