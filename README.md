@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0414-third-maximum-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/dipakgit123/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
